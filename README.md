@@ -1,4 +1,4 @@
 # weatherApp
-This is a weather app.
+This is a weather app, shows weather details of different locations in the world .
 language used: HTML,CSS,JavaScript.
-api used :https://openweathermap.org/
+API used :https://openweathermap.org/
